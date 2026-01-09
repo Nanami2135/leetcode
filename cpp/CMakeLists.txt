@@ -15,3 +15,4 @@ foreach(src ${PROBLEM_SOURCES})
         -Wall -Wextra -Wpedantic
     )
 endforeach()
+
