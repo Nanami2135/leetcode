@@ -1,4 +1,5 @@
 #include <iostream>
+#include <memory>
 #include <unordered_map>
 #include <unordered_set>
 #include <vector>
@@ -93,5 +94,5 @@ int main() {
 
     delete s;
 
-    return result;
+    return 0;
 }
